@@ -1,0 +1,16 @@
+total 32
+drwxrwxr-x 4 kalmi kalmi 4096 Nov  7 08:50 .
+drwxr-xr-x 4 kalmi kalmi 4096 Nov  5 15:20 ..
+drwxrwxr-x 7 kalmi kalmi 4096 Nov  5 15:40 .git
+drwxrwxr-x 6 kalmi kalmi 4096 Nov  5 15:54 git-lesson-repository
+-rw-rw-r-- 1 kalmi kalmi    8 Nov  6 18:57 korte.txt
+-rw-rw-r-- 1 kalmi kalmi    0 Nov  7 08:50 mom.txt
+-rw-rw-r-- 1 kalmi kalmi    8 Nov  7 08:49 put.txt
+-rw-rw-r-- 1 kalmi kalmi   17 Nov  6 18:54 text.txt
+-rw-rw-r-- 1 kalmi kalmi   17 Nov  6 18:57 trapista.txt
+popomopom mandarin
+bim
+bam
+bim
+bim
+bam
